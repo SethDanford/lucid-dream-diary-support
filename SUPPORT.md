@@ -1,4 +1,4 @@
-**Lucid Dream Diary Support**
+Lucid Dream Diary Support
 
 Thanks for using Lucid Dream Diary. If you need help, start here.
 
