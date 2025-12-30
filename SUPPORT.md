@@ -39,7 +39,7 @@ Troubleshooting
   - Restart the app and try again.
 
 Data and privacy
-See the privacy policy here: [Privacy Policy URL]
+See the privacy policy here: [Privacy Policy](https://sethdanford.github.io/lucid-dream-diary-support/PRIVACY_POLICY.md)
 
 Send a support request
 Optionally include the following so I can help quickly:
