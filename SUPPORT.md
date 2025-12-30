@@ -1,6 +1,6 @@
-Lucid Dream Diary Support
+Lucid Dream Calendar Support
 
-Thanks for using Lucid Dream Diary. If you need help, start here.
+Thanks for using Lucid Dream Calendar. If you need help, start here.
 
 Contact
 Email: anoraxstudio@gmail.com
