@@ -1,10 +1,9 @@
-Lucid Dream Diary Support
+**Lucid Dream Diary Support**
 
 Thanks for using Lucid Dream Diary. If you need help, start here.
 
 Contact
-Email: [Support Email]
-Website: [Support URL]
+Email: anoraxstudio@gmail.com
 
 Common questions
 
@@ -21,7 +20,7 @@ Open Settings and use Export PDF or Export CSV. Export uses the native share she
 Open Settings and use Import CSV. Only CSVs exported from this app are supported.
 
 5) How do I enable iCloud backup?
-On iOS, open Settings and toggle iCloud Backup. You must be signed in to iCloud on the device.
+On iOS, open Settings and toggle iCloud Backup. You must be signed in to iCloud and have iCloud Drive on, on the device.
 
 6) How do I restore a purchase?
 Open Settings and tap Restore in the Customizable look section.
@@ -30,23 +29,22 @@ Troubleshooting
 
 - Microphone not working:
   - Allow microphone access in iOS/Android Settings for Lucid Dream Diary.
-  - Voice memo recording is not available on the iOS Simulator; use a physical device.
 
 - iCloud backup unavailable:
   - Make sure you are signed in to iCloud on the device.
   - Toggle iCloud Backup off and on again in Settings.
 
 - Export/Import not working:
-  - Make sure you are on a real device with a share sheet and file picker available.
+  - Make sure you are on a device with a file picker available.
   - Restart the app and try again.
 
 Data and privacy
 See the privacy policy here: [Privacy Policy URL]
 
 Send a support request
-Include the following so I can help quickly:
+Optionally include the following so I can help quickly:
 - Device model
 - OS version
 - App version
 - Steps to reproduce the issue
-- Screenshots or screen recording (if helpful)
+- Screenshots (if helpful)
