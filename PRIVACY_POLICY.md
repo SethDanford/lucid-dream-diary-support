@@ -1,8 +1,8 @@
-Privacy Policy for Lucid Dream Diary
+Privacy Policy for Lucid Dream Calendar
 
 Effective date: 30/12/2025
 
-This Privacy Policy explains how I Seth Danford ("we", "us", "our") handles information in the Lucid Dream Diary mobile application (the "App").
+This Privacy Policy explains how I Seth Danford ("we", "us", "our") handles information in the Lucid Dream Calendar mobile application (the "App").
 
 Summary
 - The App stores your entries on your device.
