@@ -1,8 +1,8 @@
-Privacy Policy for Lucid Dream Diary
+**Privacy Policy for Lucid Dream Diary**
 
-Effective date: [Month Day, Year]
+**Effective date: 30/12/2025**
 
-This Privacy Policy explains how [Developer/Company Name] ("we", "us", "our") handles information in the Lucid Dream Diary mobile application (the "App").
+This Privacy Policy explains how I Seth Danford ("we", "us", "our") handles information in the Lucid Dream Diary mobile application (the "App").
 
 Summary
 - The App stores your entries on your device.
@@ -65,7 +65,5 @@ We may update this policy from time to time. The effective date will be updated 
 
 Contact
 If you have questions, contact:
-[Developer/Company Name]
-[Support Email]
-[Website URL, if any]
-[Postal Address, if required]
+Seth Danford
+anoraxstudio@gmail.com
