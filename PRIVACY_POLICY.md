@@ -18,8 +18,7 @@ The App allows you to create dream entries and related details (for example: dat
 If you choose to record voice memos, the App asks for microphone permission. Audio is recorded and stored locally on your device. We do not receive or transmit your recordings.
 
 3) Optional iCloud backup (iOS)
-If you enable iCloud backup, the App stores your entries and preferences in your iCloud account using Apple's iCloud key-value storage. This data is handled by Apple under their privacy policy. Audio files are not uploaded by the App.
-
+If you enable iCloud backup, the App stores your entries and preferences in your iCloud account using Apple's iCloud key-value storage. This data is handled by Apple under their privacy policy.
 4) Exports and imports
 If you export data (CSV or PDF) or import a CSV, the file is processed locally on your device and shared only when you choose to share it.
 
